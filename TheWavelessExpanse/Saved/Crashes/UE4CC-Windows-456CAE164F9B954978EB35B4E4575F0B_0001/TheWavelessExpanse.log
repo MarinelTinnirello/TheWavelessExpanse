@@ -1,0 +1,1443 @@
+﻿Log file open, 01/23/21 14:20:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheWavelessExpanse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.072292
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Engine.ini]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Engine.ini]
+[2021.01.23-19.20.15:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Engine.ini]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Engine.ini]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.23-19.20.15:608][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Engine.ini]
+[2021.01.23-19.20.15:608][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Engine.ini]
+[2021.01.23-19.20.15:610][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.23-19.20.15:610][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.23-19.20.15:611][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.23-19.20.15:611][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.23-19.20.15:611][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.23-19.20.15:613][  0]LogHAL: Display: Platform has ~ 16 GB [17023844352 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.23-19.20.15:613][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.23-19.20.15:613][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.23-19.20.15:613][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Scalability.ini]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.23-19.20.15:614][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Config/Windows/Engine.ini]
+[2021.01.23-19.20.15:614][  0]LogInit: Computer: DESKTOP-RCVQ2R0
+[2021.01.23-19.20.15:614][  0]LogInit: User: MT
+[2021.01.23-19.20.15:614][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.23-19.20.15:614][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.23-19.20.15:614][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.23-19.20.15:614][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.23-19.20.15:615][  0]LogMemory: Process Physical Memory: 106.33 MB used, 106.33 MB peak
+[2021.01.23-19.20.15:615][  0]LogMemory: Process Virtual Memory: 105.39 MB used, 105.39 MB peak
+[2021.01.23-19.20.15:615][  0]LogMemory: Physical Memory: 4450.06 MB used,  11785.14 MB free, 16235.20 MB total
+[2021.01.23-19.20.15:615][  0]LogMemory: Virtual Memory: 5163.38 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2021.01.23-19.20.15:616][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.23-19.20.15:626][  0]LogInit: Using OS detected language (en-US).
+[2021.01.23-19.20.15:626][  0]LogInit: Using OS detected locale (en-US).
+[2021.01.23-19.20.15:627][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.23-19.20.15:743][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.23-19.20.15:771][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.23-19.20.15:771][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.23-19.20.15:897][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.23-19.20.15:897][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.23-19.20.15:897][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.23-19.20.15:897][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.23-19.20.15:966][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2021.01.23-19.20.15:967][  0]LogD3D11RHI:       3962/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.23-19.20.15:978][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.01.23-19.20.15:978][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.23-19.20.15:979][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.23-19.20.15:979][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.23-19.20.15:979][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.23-19.20.16:012][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.23-19.20.16:012][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.23-19.20.16:012][  0]LogWindows: EnumDisplayDevices:
+[2021.01.23-19.20.16:013][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.01.23-19.20.16:013][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.01.23-19.20.16:013][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.01.23-19.20.16:013][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2021.01.23-19.20.16:013][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.01.23-19.20.16:013][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2021.01.23-19.20.16:013][  0]LogD3D11RHI:   Driver Version: 441.93 (internal:26.21.14.4193, unified:441.93)
+[2021.01.23-19.20.16:013][  0]LogD3D11RHI:      Driver Date: 1-2-2020
+[2021.01.23-19.20.16:013][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.01.23-19.20.16:053][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.23-19.20.16:053][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.23-19.20.16:064][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.23-19.20.16:291][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.23-19.20.16:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.23-19.20.16:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.23-19.20.16:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.23-19.20.16:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.23-19.20.16:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.23-19.20.16:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.23-19.20.16:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.23-19.20.16:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.23-19.20.16:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.23-19.20.16:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.23-19.20.16:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.23-19.20.16:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.23-19.20.16:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.23-19.20.16:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.23-19.20.16:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.23-19.20.16:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.23-19.20.16:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.23-19.20.16:418][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.23-19.20.16:420][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.23-19.20.16:437][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Intermediate/Shaders/WorkingDirectory/5008/).
+[2021.01.23-19.20.16:437][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/M T/AppData/Local/Temp/UnrealShaderWorkingDir/814E4C1849DB0701B355B895910125E8/'.
+[2021.01.23-19.20.16:438][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.23-19.20.16:438][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.23-19.20.16:438][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.23-19.20.17:010][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.23-19.20.17:055][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/M T/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.23-19.20.17:055][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/M T/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.01.23-19.20.17:055][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.23-19.20.17:055][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.23-19.20.17:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.23-19.20.17:056][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.23-19.20.17:064][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.23-19.20.17:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.23-19.20.17:064][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.23-19.20.17:065][  0]LogDerivedDataCache: Using Local data cache path C:/Users/M T/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.23-19.20.17:065][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.23-19.20.17:065][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.23-19.20.17:085][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.23-19.20.17:087][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.23-19.20.17:088][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.23-19.20.17:128][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.01.23-19.20.17:357][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.23-19.20.17:478][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.23-19.20.17:478][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.23-19.20.17:478][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.23-19.20.17:478][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.23-19.20.17:478][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.23-19.20.17:488][  0]LogNetVersion: TheWavelessExpanse 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 148985502)
+[2021.01.23-19.20.18:262][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.034258 seconds
+[2021.01.23-19.20.18:267][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.01.23-19.20.18:267][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.01.23-19.20.18:267][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.23-19.20.18:560][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.23-19.20.18:561][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.23-19.20.18:607][  0]SourceControl: Source control is disabled
+[2021.01.23-19.20.18:607][  0]SourceControl: Source control is disabled
+[2021.01.23-19.20.18:607][  0]SourceControl: Source control is disabled
+[2021.01.23-19.20.18:608][  0]SourceControl: Source control is disabled
+[2021.01.23-19.20.18:609][  0]SourceControl: Source control is disabled
+[2021.01.23-19.20.18:663][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.23-19.20.18:670][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.23-19.20.18:670][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.23-19.20.18:732][  0]LogOcInput: OculusInput pre-init called
+[2021.01.23-19.20.18:737][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.23-19.20.18:738][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.23-19.20.18:789][  0]LogEngine: Initializing Engine...
+[2021.01.23-19.20.18:789][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.23-19.20.18:790][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.23-19.20.19:055][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.23-19.20.19:060][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.23-19.20.19:077][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-19.20.19:077][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-19.20.19:077][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-19.20.19:077][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-19.20.19:077][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-19.20.19:077][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-19.20.19:077][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-19.20.19:077][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-19.20.19:077][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-19.20.19:077][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-19.20.19:095][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-19.20.19:095][  0]LogAudioMixer: Display: Name: Speakers (G533 Gaming Headset)
+[2021.01.23-19.20.19:095][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-19.20.19:096][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-19.20.19:096][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-19.20.19:096][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-19.20.19:096][  0]LogAudioMixer: Display: Channel Order:
+[2021.01.23-19.20.19:096][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-19.20.19:096][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-19.20.19:121][  0]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2021.01.23-19.20.19:126][  0]LogInit: FAudioDevice initialized.
+[2021.01.23-19.20.19:126][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.23-19.20.19:167][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/M T/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.23-19.20.19:171][  0]LogInit: Texture streaming: Enabled
+[2021.01.23-19.20.19:178][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.23-19.20.19:178][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.23-19.20.19:179][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.23-19.20.19:233][  0]LogInit: Transaction tracking system initialized
+[2021.01.23-19.20.19:240][  0]BlueprintLog: New page: Editor Load
+[2021.01.23-19.20.19:262][  0]LocalizationService: Localization service is disabled
+[2021.01.23-19.20.19:468][  0]LogFileCache: Scanning file cache for directory 'C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/' took 0.01s
+[2021.01.23-19.20.19:468][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.23-19.20.19:469][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.23-19.20.19:985][  0]SourceControl: Source control is disabled
+[2021.01.23-19.20.19:985][  0]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/MainTemple.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-19.20.19:986][  0]LightingResults: New page: Lighting Build
+[2021.01.23-19.20.19:986][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.20.19:986][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.20.19:986][  0]MapCheck: New page: Map Check
+[2021.01.23-19.20.19:986][  0]LightingResults: New page: Lighting Build
+[2021.01.23-19.20.20:014][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.23-19.20.23:054][  0]LogAIModule: Creating AISystem for world MainTemple
+[2021.01.23-19.20.23:098][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-19.20.23:137][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.01.23-19.20.23:137][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-19.20.23:137][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2021.01.23-19.20.23:137][  0]LogFileHelpers: Loading map 'MainTemple' took 3.153
+[2021.01.23-19.20.23:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.20.23:332][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.20.23:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.20.23:342][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.20.23:356][  0]LogCollectionManager: Loaded 0 collections in 0.001454 seconds
+[2021.01.23-19.20.23:388][  0]LogFileCache: Scanning file cache for directory 'C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Collections/' took 0.00s
+[2021.01.23-19.20.23:388][  0]LogFileCache: Scanning file cache for directory 'C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Developers/MT/Collections/' took 0.00s
+[2021.01.23-19.20.23:388][  0]LogFileCache: Scanning file cache for directory 'C:/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Collections/' took 0.00s
+[2021.01.23-19.20.23:388][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3015 classes and 717 folders.
+[2021.01.23-19.20.23:398][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.23-19.20.23:751][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.23-19.20.23:766][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.01.23-19.20.24:023][  0]LogSlate: Took 0.000444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.23-19.20.24:025][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.23-19.20.24:035][  0]LogSlate: Took 0.005878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.23-19.20.24:159][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.01.23-19.20.24:336][  0]LogRenderer: Reallocating scene render targets to support 864x432 Format 10 NumSamples 1 (Frame:1).
+[2021.01.23-19.20.24:401][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.23-19.20.24:401][  0]LogLoad: (Engine Initialization) Total time: 9.89 seconds
+[2021.01.23-19.20.24:401][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.23-19.20.24:466][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.23-19.20.24:492][  0]LogSlate: Took 0.005645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.23-19.20.24:599][  2]LogAssetRegistry: Asset discovery search completed in 7.4721 seconds
+[2021.01.23-19.20.24:602][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.01.23-19.21.11:449][860]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.23-19.21.13:468][860]LogAIModule: Creating AISystem for world Ruins
+[2021.01.23-19.21.13:493][860]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Ruins.Ruins
+[2021.01.23-19.21.13:524][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.01.23-19.21.13:526][860]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-19.21.13:526][860]LightingResults: New page: Lighting Build
+[2021.01.23-19.21.13:527][860]LoadErrors: New page: Loading map: Ruins.umap
+[2021.01.23-19.21.13:529][860]LogWorld: UWorld::CleanupWorld for MainTemple, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.21.13:529][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.21.13:529][860]MapCheck: New page: Map Check
+[2021.01.23-19.21.13:529][860]LightingResults: New page: Lighting Build
+[2021.01.23-19.21.13:561][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.01.23-19.21.13:753][860]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-19.21.13:799][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.01.23-19.21.13:836][860]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-19.21.13:837][860]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.217ms to complete.
+[2021.01.23-19.21.13:837][860]LogFileHelpers: Loading map 'Ruins' took 0.312
+[2021.01.23-19.21.42:578][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.23-19.21.43:008][540]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/RuinsCCDCCB954384C0A1E87306B4040682EE.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap'
+[2021.01.23-19.21.43:061][540]AssetCheck: New page: Asset Save: Ruins
+[2021.01.23-19.21.43:061][540]LogContentValidation: Display: Validating World /Game/Levels/Ruins.Ruins
+[2021.01.23-19.21.46:373][702]LogAIModule: Creating AISystem for world Outside
+[2021.01.23-19.21.46:390][702]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Outside.Outside
+[2021.01.23-19.21.46:419][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.23-19.21.46:420][702]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Outside.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-19.21.46:420][702]LightingResults: New page: Lighting Build
+[2021.01.23-19.21.46:420][702]LoadErrors: New page: Loading map: Outside.umap
+[2021.01.23-19.21.46:427][702]LogWorld: UWorld::CleanupWorld for Ruins, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.21.46:428][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.21.46:428][702]MapCheck: New page: Map Check
+[2021.01.23-19.21.46:428][702]LightingResults: New page: Lighting Build
+[2021.01.23-19.21.46:461][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.01.23-19.21.46:694][702]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-19.21.46:738][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.01.23-19.21.46:776][702]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-19.21.46:776][702]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2021.01.23-19.21.46:776][702]LogFileHelpers: Loading map 'Outside' took 0.357
+[2021.01.23-19.21.55:905][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.23-19.21.56:191][230]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/OutsideA7A269354B55BA6138510EADE3FA8CCF.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Outside.umap'
+[2021.01.23-19.21.56:246][230]AssetCheck: New page: Asset Save: Outside
+[2021.01.23-19.21.56:246][230]LogContentValidation: Display: Validating World /Game/Levels/Outside.Outside
+[2021.01.23-19.22.18:009][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.23-19.22.19:329][511]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.23-19.22.19:447][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.23-19.22.19:469][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.23-19.22.19:503][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.23-19.22.19:527][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.23-19.22.24:554][629]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\M T\Desktop\The Way We Were.wav)
+[2021.01.23-19.22.24:579][629]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave The_Way_We_Were...
+[2021.01.23-19.22.24:580][629]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Music/OST/Final/The_Way_We_Were.The_Way_We_Were will be modified from 40 to 40.
+[2021.01.23-19.22.25:247][629]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 8544128 while cooking SoundWave /Game/Music/OST/Final/The_Way_We_Were.The_Way_We_Were.
+[2021.01.23-19.22.25:290][629]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\M T\Desktop\Ruins of a Past Long Forgotten.wav)
+[2021.01.23-19.22.25:336][629]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Ruins_of_a_Past_Long_Forgotten...
+[2021.01.23-19.22.25:339][629]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Music/OST/Final/Ruins_of_a_Past_Long_Forgotten.Ruins_of_a_Past_Long_Forgotten will be modified from 40 to 40.
+[2021.01.23-19.22.26:553][629]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 16969728 while cooking SoundWave /Game/Music/OST/Final/Ruins_of_a_Past_Long_Forgotten.Ruins_of_a_Past_Long_Forgotten.
+[2021.01.23-19.22.26:574][629]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\M T\Desktop\The Faces Tell All.wav)
+[2021.01.23-19.22.26:591][629]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave The_Faces_Tell_All...
+[2021.01.23-19.22.26:592][629]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Music/OST/Final/The_Faces_Tell_All.The_Faces_Tell_All will be modified from 40 to 40.
+[2021.01.23-19.22.27:064][629]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6276316 while cooking SoundWave /Game/Music/OST/Final/The_Faces_Tell_All.The_Faces_Tell_All.
+[2021.01.23-19.22.27:099][629]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\M T\Desktop\Great Bay Temple.wav)
+[2021.01.23-19.22.27:140][629]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Great_Bay_Temple...
+[2021.01.23-19.22.27:143][629]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Music/OST/Final/Great_Bay_Temple.Great_Bay_Temple will be modified from 40 to 40.
+[2021.01.23-19.22.28:165][629]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 14206692 while cooking SoundWave /Game/Music/OST/Final/Great_Bay_Temple.Great_Bay_Temple.
+[2021.01.23-19.22.30:265][738]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Great_Bay_Temple5481B9BE4FAEBB74AD3237932C08416D.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/Great_Bay_Temple.uasset'
+[2021.01.23-19.22.30:290][738]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Ruins_of_a_Past_Long_Forgotten0D4332204469FEBB1FFD3F974724188F.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/Ruins_of_a_Past_Long_Forgotten.uasset'
+[2021.01.23-19.22.30:306][738]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/The_Faces_Tell_AllA7B00BB5460E4ADC3FE143B1504A1B65.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/The_Faces_Tell_All.uasset'
+[2021.01.23-19.22.30:324][738]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/The_Way_We_Were53A97317471799401B6D4BA0C439D924.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/The_Way_We_Were.uasset'
+[2021.01.23-19.22.30:342][738]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.23-19.22.30:342][738]LogContentValidation: Display: Validating SoundWave /Game/Music/OST/Final/Great_Bay_Temple.Great_Bay_Temple
+[2021.01.23-19.22.30:342][738]LogContentValidation: Display: Validating SoundWave /Game/Music/OST/Final/Ruins_of_a_Past_Long_Forgotten.Ruins_of_a_Past_Long_Forgotten
+[2021.01.23-19.22.30:342][738]LogContentValidation: Display: Validating SoundWave /Game/Music/OST/Final/The_Faces_Tell_All.The_Faces_Tell_All
+[2021.01.23-19.22.30:342][738]LogContentValidation: Display: Validating SoundWave /Game/Music/OST/Final/The_Way_We_Were.The_Way_We_Were
+[2021.01.23-19.22.40:247][271]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Music/OST/Final/Ruins_of_a_Past_Long_Forgotten_Cue.Ruins_of_a_Past_Long_Forgotten_Cue
+[2021.01.23-19.22.40:415][271]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.23-19.22.58:357][288]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Ruins_of_a_Past_Long_Forgotten_CBF9DE3A045E1875BCFC524B1BCC8D266.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/Ruins_of_a_Past_Long_Forgotten_Cue.uasset'
+[2021.01.23-19.22.58:369][288]AssetCheck: New page: Asset Save: Ruins_of_a_Past_Long_Forgotten_Cue
+[2021.01.23-19.22.58:369][288]LogContentValidation: Display: Validating SoundCue /Game/Music/OST/Final/Ruins_of_a_Past_Long_Forgotten_Cue.Ruins_of_a_Past_Long_Forgotten_Cue
+[2021.01.23-19.22.59:740][368]LogSlate: Window 'Ruins_of_a_Past_Long_Forgotten_Cue' being destroyed
+[2021.01.23-19.22.59:744][368]LogSlate: Window 'Ruins_of_a_Past_Long_Forgotten_Cue' being destroyed
+[2021.01.23-19.23.10:196][970]LogMetaData: Removing '/Game/Music/OST/Final/Cues/Ruins_of_a_Past_Long_Forgotten_Cue.Ruins_of_a_Past_Long_Forgotten_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Music/OST/Final/Ruins_of_a_Past_Long_Forgotten_Cue.PackageMetaData'
+[2021.01.23-19.23.10:235][970]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Ruins_of_a_Past_Long_Forgotten_C34B70D2A4C8D27DF3E9E6DBB7AB88421.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/Cues/Ruins_of_a_Past_Long_Forgotten_Cue.uasset'
+[2021.01.23-19.23.10:435][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.23-19.23.10:466][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.01.23-19.23.10:489][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.23-19.23.10:552][970]AssetCheck: New page: Asset Save: Ruins_of_a_Past_Long_Forgotten_Cue
+[2021.01.23-19.23.10:552][970]LogContentValidation: Display: Validating SoundCue /Game/Music/OST/Final/Cues/Ruins_of_a_Past_Long_Forgotten_Cue.Ruins_of_a_Past_Long_Forgotten_Cue
+[2021.01.23-19.23.18:721][429]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Music/OST/Final/Great_Bay_Temple_Cue.Great_Bay_Temple_Cue
+[2021.01.23-19.23.37:633][533]LogEditorTransaction: Undo Sound Cue Editor: New Sound Node
+[2021.01.23-19.23.45:677][969]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Great_Bay_Temple_Cue922A556D47B489D30AA775BA292EB64E.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/Great_Bay_Temple_Cue.uasset'
+[2021.01.23-19.23.45:687][969]AssetCheck: New page: Asset Save: Great_Bay_Temple_Cue
+[2021.01.23-19.23.45:687][969]LogContentValidation: Display: Validating SoundCue /Game/Music/OST/Final/Great_Bay_Temple_Cue.Great_Bay_Temple_Cue
+[2021.01.23-19.23.49:720][209]LogSlate: Window 'Great_Bay_Temple_Cue' being destroyed
+[2021.01.23-19.23.49:724][209]LogSlate: Window 'Great_Bay_Temple_Cue' being destroyed
+[2021.01.23-19.23.52:162][346]LogMetaData: Removing '/Game/Music/OST/Final/Cues/Great_Bay_Temple_Cue.Great_Bay_Temple_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Music/OST/Final/Great_Bay_Temple_Cue.PackageMetaData'
+[2021.01.23-19.23.52:199][346]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Great_Bay_Temple_CueF6FA84E54935DF1375166A82F1DAFCE8.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/Cues/Great_Bay_Temple_Cue.uasset'
+[2021.01.23-19.23.52:384][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.23-19.23.52:415][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.01.23-19.23.52:437][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.23-19.23.52:499][346]AssetCheck: New page: Asset Save: Great_Bay_Temple_Cue
+[2021.01.23-19.23.52:499][346]LogContentValidation: Display: Validating SoundCue /Game/Music/OST/Final/Cues/Great_Bay_Temple_Cue.Great_Bay_Temple_Cue
+[2021.01.23-19.23.58:717][704]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Music/OST/Final/The_Way_We_Were_Cue.The_Way_We_Were_Cue
+[2021.01.23-19.24.20:583][967]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/The_Way_We_Were_Cue6B7A81E9491D81B8774812BAA723A927.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/The_Way_We_Were_Cue.uasset'
+[2021.01.23-19.24.20:593][967]AssetCheck: New page: Asset Save: The_Way_We_Were_Cue
+[2021.01.23-19.24.20:593][967]LogContentValidation: Display: Validating SoundCue /Game/Music/OST/Final/The_Way_We_Were_Cue.The_Way_We_Were_Cue
+[2021.01.23-19.24.21:940][ 48]LogSlate: Window 'The_Way_We_Were_Cue' being destroyed
+[2021.01.23-19.24.21:944][ 48]LogSlate: Window 'The_Way_We_Were_Cue' being destroyed
+[2021.01.23-19.24.26:738][319]LogMetaData: Removing '/Game/Music/OST/Final/Cues/The_Way_We_Were_Cue.The_Way_We_Were_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Music/OST/Final/The_Way_We_Were_Cue.PackageMetaData'
+[2021.01.23-19.24.26:773][319]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/The_Way_We_Were_Cue731903424CCF9E1E4FB36585AC64CFF7.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/Cues/The_Way_We_Were_Cue.uasset'
+[2021.01.23-19.24.26:954][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.23-19.24.26:986][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.23-19.24.27:008][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.23-19.24.27:071][319]AssetCheck: New page: Asset Save: The_Way_We_Were_Cue
+[2021.01.23-19.24.27:071][319]LogContentValidation: Display: Validating SoundCue /Game/Music/OST/Final/Cues/The_Way_We_Were_Cue.The_Way_We_Were_Cue
+[2021.01.23-19.24.32:892][641]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Music/OST/Final/The_Faces_Tell_All_Cue.The_Faces_Tell_All_Cue
+[2021.01.23-19.26.41:607][920]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/The_Faces_Tell_All_Cue61DD56924948615C99552A8A475553EE.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/The_Faces_Tell_All_Cue.uasset'
+[2021.01.23-19.26.41:618][920]AssetCheck: New page: Asset Save: The_Faces_Tell_All_Cue
+[2021.01.23-19.26.41:618][920]LogContentValidation: Display: Validating SoundCue /Game/Music/OST/Final/The_Faces_Tell_All_Cue.The_Faces_Tell_All_Cue
+[2021.01.23-19.26.42:899][995]LogSlate: Window 'The_Faces_Tell_All_Cue' being destroyed
+[2021.01.23-19.26.42:902][995]LogSlate: Window 'The_Faces_Tell_All_Cue' being destroyed
+[2021.01.23-19.26.46:122][180]LogMetaData: Removing '/Game/Music/OST/Final/Cues/The_Faces_Tell_All_Cue.The_Faces_Tell_All_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Music/OST/Final/The_Faces_Tell_All_Cue.PackageMetaData'
+[2021.01.23-19.26.46:161][180]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/The_Faces_Tell_All_Cue580C4E304F9EF7B0FB1EAA9663EB20D6.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Music/OST/Final/Cues/The_Faces_Tell_All_Cue.uasset'
+[2021.01.23-19.26.46:345][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.23-19.26.46:375][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.01.23-19.26.46:398][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.23-19.26.46:459][180]AssetCheck: New page: Asset Save: The_Faces_Tell_All_Cue
+[2021.01.23-19.26.46:459][180]LogContentValidation: Display: Validating SoundCue /Game/Music/OST/Final/Cues/The_Faces_Tell_All_Cue.The_Faces_Tell_All_Cue
+[2021.01.23-19.26.54:646][644]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-19.26.54:673][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Outside.Outside:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Outside.Outside:PersistentLevel.Outside' with GeneratedClass '/Game/Levels/Outside.Outside_C' with ClassGeneratedBy '/Game/Levels/Outside.Outside:PersistentLevel.Outside'
+[2021.01.23-19.26.54:673][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-19.26.54:674][644]PIE: New page: PIE session: Outside (Jan 23, 2021, 9:26:54 AM)
+[2021.01.23-19.26.54:675][644]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.23-19.26.54:676][644]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.23-19.26.54:676][644]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Outside
+[2021.01.23-19.26.54:705][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028366s)
+[2021.01.23-19.26.54:705][644]LogAIModule: Creating AISystem for world Outside
+[2021.01.23-19.26.54:705][644]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2021.01.23-19.26.54:706][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Outside.Outside to /Game/Levels/UEDPIE_0_Outside.Outside (0.029398s)
+[2021.01.23-19.26.54:730][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.23-19.26.54:731][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-19.26.54:731][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-19.26.54:731][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-19.26.54:731][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-19.26.54:731][644]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-19.26.54:731][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-19.26.54:731][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-19.26.54:731][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-19.26.54:732][644]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-19.26.54:732][644]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: Name: Speakers (G533 Gaming Headset)
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: Channel Order:
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-19.26.54:741][644]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-19.26.54:751][644]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2021.01.23-19.26.54:752][644]LogInit: FAudioDevice initialized.
+[2021.01.23-19.26.54:762][644]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-19.26.54:786][644]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Outside.Outside up for play (max tick rate 60) at 2021.01.23-14.26.54
+[2021.01.23-19.26.54:797][644]LogWorld: Bringing up level for play took: 0.032718
+[2021.01.23-19.26.54:797][644]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.01.23-19.26.54:805][644]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.23-19.26.54:813][644]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Outside 0.832
+[2021.01.23-19.26.54:814][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Outside.Outside:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Outside.Outside:PersistentLevel.Outside' with GeneratedClass '/Game/Levels/Outside.Outside_C' with ClassGeneratedBy '/Game/Levels/Outside.Outside:PersistentLevel.Outside'
+[2021.01.23-19.30.48:815][672]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.30.48:844][672]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-19.30.48:864][672]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-19.30.48:864][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Outside.Outside:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Outside.Outside:PersistentLevel.Outside' with GeneratedClass '/Game/Levels/Outside.Outside_C' with ClassGeneratedBy '/Game/Levels/Outside.Outside:PersistentLevel.Outside'
+[2021.01.23-19.30.48:865][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.30.48:865][672]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Outside
+[2021.01.23-19.30.48:865][672]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.30.48:874][672]LogWorld: UWorld::CleanupWorld for Outside, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.30.48:883][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.30.48:889][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-19.30.48:890][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Outside.Outside:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Outside.Outside:PersistentLevel.Outside' with GeneratedClass '/Game/Levels/Outside.Outside_C' with ClassGeneratedBy '/Game/Levels/Outside.Outside:PersistentLevel.Outside'
+[2021.01.23-19.30.48:893][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.30.48:919][672]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.30.48:921][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.30.48:927][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.01.23-19.30.48:941][673]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.01.23-19.30.49:540][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.23-19.30.49:826][705]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Outside1751A0984FCEE6455B01EBA4084413CA.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Outside.umap'
+[2021.01.23-19.30.49:877][705]AssetCheck: New page: Asset Save: Outside
+[2021.01.23-19.30.49:877][705]LogContentValidation: Display: Validating World /Game/Levels/Outside.Outside
+[2021.01.23-19.30.54:024][926]LogAIModule: Creating AISystem for world Ruins
+[2021.01.23-19.30.54:046][926]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Ruins.Ruins
+[2021.01.23-19.30.54:077][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.23-19.30.54:078][926]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-19.30.54:078][926]LightingResults: New page: Lighting Build
+[2021.01.23-19.30.54:079][926]LoadErrors: New page: Loading map: Ruins.umap
+[2021.01.23-19.30.54:083][926]LogWorld: UWorld::CleanupWorld for Outside, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.30.54:083][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.30.54:084][926]MapCheck: New page: Map Check
+[2021.01.23-19.30.54:084][926]LightingResults: New page: Lighting Build
+[2021.01.23-19.30.54:116][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.01.23-19.30.54:426][926]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-19.30.54:470][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.23-19.30.54:510][926]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-19.30.54:510][926]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2021.01.23-19.30.54:510][926]LogFileHelpers: Loading map 'Ruins' took 0.433
+[2021.01.23-19.31.01:780][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.23-19.31.02:163][340]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Ruins3FA55DAB42B6C72778767FB07EAF0AC2.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap'
+[2021.01.23-19.31.02:213][340]AssetCheck: New page: Asset Save: Ruins
+[2021.01.23-19.31.02:213][340]LogContentValidation: Display: Validating World /Game/Levels/Ruins.Ruins
+[2021.01.23-19.31.03:961][441]LogAIModule: Creating AISystem for world MainTemple
+[2021.01.23-19.31.03:975][441]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainTemple.MainTemple
+[2021.01.23-19.31.04:001][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.01.23-19.31.04:002][441]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/MainTemple.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-19.31.04:002][441]LightingResults: New page: Lighting Build
+[2021.01.23-19.31.04:002][441]LoadErrors: New page: Loading map: MainTemple.umap
+[2021.01.23-19.31.04:009][441]LogWorld: UWorld::CleanupWorld for Ruins, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.31.04:009][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.31.04:010][441]MapCheck: New page: Map Check
+[2021.01.23-19.31.04:010][441]LightingResults: New page: Lighting Build
+[2021.01.23-19.31.04:045][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.01.23-19.31.04:344][441]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-19.31.04:377][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.01.23-19.31.04:415][441]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-19.31.04:415][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2021.01.23-19.31.04:415][441]LogFileHelpers: Loading map 'MainTemple' took 0.414
+[2021.01.23-19.31.16:850][957]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-19.31.16:873][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainTemple.MainTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainTemple.MainTemple:PersistentLevel.MainTemple' with GeneratedClass '/Game/Levels/MainTemple.MainTemple_C' with ClassGeneratedBy '/Game/Levels/MainTemple.MainTemple:PersistentLevel.MainTemple'
+[2021.01.23-19.31.16:873][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-19.31.16:873][957]PIE: New page: PIE session: MainTemple (Jan 23, 2021, 9:31:16 AM)
+[2021.01.23-19.31.16:873][957]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainTemple
+[2021.01.23-19.31.16:893][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020050s)
+[2021.01.23-19.31.16:894][957]LogAIModule: Creating AISystem for world MainTemple
+[2021.01.23-19.31.16:894][957]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2021.01.23-19.31.16:894][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainTemple.MainTemple to /Game/Levels/UEDPIE_0_MainTemple.MainTemple (0.021016s)
+[2021.01.23-19.31.16:918][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.23-19.31.16:919][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-19.31.16:919][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-19.31.16:919][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-19.31.16:919][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-19.31.16:919][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-19.31.16:919][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-19.31.16:919][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-19.31.16:919][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-19.31.16:920][957]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-19.31.16:920][957]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-19.31.16:929][957]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-19.31.16:929][957]LogAudioMixer: Display: Name: Speakers (G533 Gaming Headset)
+[2021.01.23-19.31.16:929][957]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-19.31.16:929][957]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-19.31.16:929][957]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-19.31.16:929][957]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-19.31.16:929][957]LogAudioMixer: Display: Channel Order:
+[2021.01.23-19.31.16:929][957]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-19.31.16:930][957]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-19.31.16:938][957]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2021.01.23-19.31.16:939][957]LogInit: FAudioDevice initialized.
+[2021.01.23-19.31.16:947][957]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-19.31.16:957][957]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainTemple.MainTemple up for play (max tick rate 60) at 2021.01.23-14.31.16
+[2021.01.23-19.31.16:959][957]LogWorld: Bringing up level for play took: 0.011545
+[2021.01.23-19.31.16:960][957]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.01.23-19.31.16:963][957]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainTemple 0.982
+[2021.01.23-19.31.16:963][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainTemple.MainTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainTemple.MainTemple:PersistentLevel.MainTemple' with GeneratedClass '/Game/Levels/MainTemple.MainTemple_C' with ClassGeneratedBy '/Game/Levels/MainTemple.MainTemple:PersistentLevel.MainTemple'
+[2021.01.23-19.33.48:680][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.33.48:683][571]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-19.33.48:703][571]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-19.33.48:704][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainTemple.MainTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainTemple.MainTemple:PersistentLevel.MainTemple' with GeneratedClass '/Game/Levels/MainTemple.MainTemple_C' with ClassGeneratedBy '/Game/Levels/MainTemple.MainTemple:PersistentLevel.MainTemple'
+[2021.01.23-19.33.48:704][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.33.48:704][571]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainTemple
+[2021.01.23-19.33.48:704][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.33.48:704][571]LogWorld: UWorld::CleanupWorld for MainTemple, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.33.48:706][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.33.48:728][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-19.33.48:728][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainTemple.MainTemple:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainTemple.MainTemple:PersistentLevel.MainTemple' with GeneratedClass '/Game/Levels/MainTemple.MainTemple_C' with ClassGeneratedBy '/Game/Levels/MainTemple.MainTemple:PersistentLevel.MainTemple'
+[2021.01.23-19.33.48:732][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.33.48:755][571]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.33.48:758][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.33.48:762][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.23-19.33.48:805][573]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.23-19.33.50:212][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.23-19.33.50:470][630]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/MainTemple5B957BCB4128BA6872C64AA33D57E7CD.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/MainTemple.umap'
+[2021.01.23-19.33.50:524][630]AssetCheck: New page: Asset Save: MainTemple
+[2021.01.23-19.33.50:524][630]LogContentValidation: Display: Validating World /Game/Levels/MainTemple.MainTemple
+[2021.01.23-19.33.53:083][680]LogAIModule: Creating AISystem for world Mausoleum
+[2021.01.23-19.33.53:138][680]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Mausoleum.Mausoleum
+[2021.01.23-19.33.53:167][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.01.23-19.33.53:168][680]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Mausoleum.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-19.33.53:168][680]LightingResults: New page: Lighting Build
+[2021.01.23-19.33.53:169][680]LoadErrors: New page: Loading map: Mausoleum.umap
+[2021.01.23-19.33.53:171][680]LogWorld: UWorld::CleanupWorld for MainTemple, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.33.53:171][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.33.53:171][680]MapCheck: New page: Map Check
+[2021.01.23-19.33.53:171][680]LightingResults: New page: Lighting Build
+[2021.01.23-19.33.53:204][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.01.23-19.33.53:660][680]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-19.33.53:695][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.23-19.33.53:734][680]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-19.33.53:734][680]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2021.01.23-19.33.53:734][680]LogFileHelpers: Loading map 'Mausoleum' took 0.567
+[2021.01.23-19.34.07:759][475]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-19.34.07:779][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel.Mausoleum' with GeneratedClass '/Game/Levels/Mausoleum.Mausoleum_C' with ClassGeneratedBy '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel.Mausoleum'
+[2021.01.23-19.34.07:779][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-19.34.07:779][475]PIE: New page: PIE session: Mausoleum (Jan 23, 2021, 9:34:07 AM)
+[2021.01.23-19.34.07:779][475]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mausoleum
+[2021.01.23-19.34.07:806][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025969s)
+[2021.01.23-19.34.07:806][475]LogAIModule: Creating AISystem for world Mausoleum
+[2021.01.23-19.34.07:806][475]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2021.01.23-19.34.07:806][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mausoleum.Mausoleum to /Game/Levels/UEDPIE_0_Mausoleum.Mausoleum (0.026849s)
+[2021.01.23-19.34.07:833][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.01.23-19.34.07:834][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-19.34.07:834][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-19.34.07:834][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-19.34.07:834][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-19.34.07:834][475]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-19.34.07:834][475]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-19.34.07:834][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-19.34.07:834][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-19.34.07:834][475]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-19.34.07:834][475]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: Name: Speakers (G533 Gaming Headset)
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: Channel Order:
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-19.34.07:844][475]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-19.34.07:852][475]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2021.01.23-19.34.07:853][475]LogInit: FAudioDevice initialized.
+[2021.01.23-19.34.07:858][475]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-19.34.07:868][475]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mausoleum.Mausoleum up for play (max tick rate 60) at 2021.01.23-14.34.07
+[2021.01.23-19.34.07:871][475]LogWorld: Bringing up level for play took: 0.012785
+[2021.01.23-19.34.07:872][475]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.01.23-19.34.07:875][475]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Mausoleum -0.105
+[2021.01.23-19.34.07:875][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel.Mausoleum' with GeneratedClass '/Game/Levels/Mausoleum.Mausoleum_C' with ClassGeneratedBy '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel.Mausoleum'
+[2021.01.23-19.36.24:101][493]LogNet: Browse: /Game/Levels/MainTemple
+[2021.01.23-19.36.24:107][493]LogLoad: LoadMap: /Game/Levels/MainTemple
+[2021.01.23-19.36.24:107][493]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mausoleum
+[2021.01.23-19.36.24:108][493]LogWorld: UWorld::CleanupWorld for Mausoleum, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.36.24:112][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.36.24:113][493]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-19.36.24:133][493]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-19.36.24:167][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.23-19.36.24:230][493]LogAIModule: Creating AISystem for world MainTemple
+[2021.01.23-19.36.24:231][493]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-19.36.24:248][493]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainTemple.MainTemple up for play (max tick rate 60) at 2021.01.23-14.36.24
+[2021.01.23-19.36.24:250][493]LogWorld: Bringing up level for play took: 0.018551
+[2021.01.23-19.36.24:253][493]LogLoad: Took 0.145323 seconds to LoadMap(/Game/Levels/MainTemple)
+[2021.01.23-19.36.27:667][647]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.36.27:673][647]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-19.36.27:693][647]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-19.36.27:693][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel.Mausoleum' with GeneratedClass '/Game/Levels/Mausoleum.Mausoleum_C' with ClassGeneratedBy '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel.Mausoleum'
+[2021.01.23-19.36.27:694][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.36.27:694][647]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainTemple
+[2021.01.23-19.36.27:694][647]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.36.27:694][647]LogWorld: UWorld::CleanupWorld for MainTemple, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.36.27:696][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.36.27:711][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-19.36.27:711][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel.Mausoleum' with GeneratedClass '/Game/Levels/Mausoleum.Mausoleum_C' with ClassGeneratedBy '/Game/Levels/Mausoleum.Mausoleum:PersistentLevel.Mausoleum'
+[2021.01.23-19.36.27:713][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.36.27:738][647]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.36.27:740][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.36.27:745][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.23-19.36.27:792][649]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.23-19.36.31:366][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.01.23-19.36.31:656][849]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/MausoleumD0978BF0461E2B545FA37C90F68E9FB7.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Mausoleum.umap'
+[2021.01.23-19.36.31:716][849]AssetCheck: New page: Asset Save: Mausoleum
+[2021.01.23-19.36.31:716][849]LogContentValidation: Display: Validating World /Game/Levels/Mausoleum.Mausoleum
+[2021.01.23-19.36.39:470][295]LogAIModule: Creating AISystem for world Observatory
+[2021.01.23-19.36.39:476][295]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Observatory.Observatory
+[2021.01.23-19.36.39:503][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.01.23-19.36.39:504][295]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Observatory.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-19.36.39:504][295]LightingResults: New page: Lighting Build
+[2021.01.23-19.36.39:505][295]LoadErrors: New page: Loading map: Observatory.umap
+[2021.01.23-19.36.39:510][295]LogWorld: UWorld::CleanupWorld for Mausoleum, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.36.39:510][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.36.39:510][295]MapCheck: New page: Map Check
+[2021.01.23-19.36.39:510][295]LightingResults: New page: Lighting Build
+[2021.01.23-19.36.39:542][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.23-19.36.39:837][295]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-19.36.39:865][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.01.23-19.36.39:905][295]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-19.36.39:905][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2021.01.23-19.36.39:905][295]LogFileHelpers: Loading map 'Observatory' took 0.400
+[2021.01.23-19.36.48:353][786]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-19.36.48:373][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Observatory.Observatory:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Observatory.Observatory:PersistentLevel.Observatory' with GeneratedClass '/Game/Levels/Observatory.Observatory_C' with ClassGeneratedBy '/Game/Levels/Observatory.Observatory:PersistentLevel.Observatory'
+[2021.01.23-19.36.48:373][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-19.36.48:373][786]PIE: New page: PIE session: Observatory (Jan 23, 2021, 9:36:48 AM)
+[2021.01.23-19.36.48:373][786]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Observatory
+[2021.01.23-19.36.48:380][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006847s)
+[2021.01.23-19.36.48:381][786]LogAIModule: Creating AISystem for world Observatory
+[2021.01.23-19.36.48:381][786]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2021.01.23-19.36.48:381][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Observatory.Observatory to /Game/Levels/UEDPIE_0_Observatory.Observatory (0.007710s)
+[2021.01.23-19.36.48:405][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.01.23-19.36.48:407][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-19.36.48:407][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-19.36.48:407][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-19.36.48:407][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-19.36.48:407][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-19.36.48:407][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-19.36.48:407][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-19.36.48:407][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-19.36.48:407][786]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-19.36.48:407][786]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: Name: Speakers (G533 Gaming Headset)
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: Channel Order:
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-19.36.48:417][786]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-19.36.48:425][786]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2021.01.23-19.36.48:427][786]LogInit: FAudioDevice initialized.
+[2021.01.23-19.36.48:439][786]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-19.36.48:455][786]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Observatory.Observatory up for play (max tick rate 60) at 2021.01.23-14.36.48
+[2021.01.23-19.36.48:457][786]LogWorld: Bringing up level for play took: 0.015653
+[2021.01.23-19.36.48:457][786]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.01.23-19.36.48:461][786]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Observatory 0.481
+[2021.01.23-19.36.48:461][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Observatory.Observatory:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Observatory.Observatory:PersistentLevel.Observatory' with GeneratedClass '/Game/Levels/Observatory.Observatory_C' with ClassGeneratedBy '/Game/Levels/Observatory.Observatory:PersistentLevel.Observatory'
+[2021.01.23-19.38.01:744][182]LogNet: Browse: /Game/Levels/MainTemple
+[2021.01.23-19.38.01:744][182]LogLoad: LoadMap: /Game/Levels/MainTemple
+[2021.01.23-19.38.01:744][182]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Observatory
+[2021.01.23-19.38.01:745][182]LogWorld: UWorld::CleanupWorld for Observatory, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.38.01:746][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.38.01:753][182]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-19.38.01:773][182]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-19.38.01:800][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.23-19.38.01:862][182]LogAIModule: Creating AISystem for world MainTemple
+[2021.01.23-19.38.01:862][182]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-19.38.01:879][182]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainTemple.MainTemple up for play (max tick rate 60) at 2021.01.23-14.38.01
+[2021.01.23-19.38.01:881][182]LogWorld: Bringing up level for play took: 0.018160
+[2021.01.23-19.38.01:884][182]LogLoad: Took 0.140019 seconds to LoadMap(/Game/Levels/MainTemple)
+[2021.01.23-19.38.02:328][197]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.38.02:343][197]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-19.38.02:373][197]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-19.38.02:373][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Observatory.Observatory:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Observatory.Observatory:PersistentLevel.Observatory' with GeneratedClass '/Game/Levels/Observatory.Observatory_C' with ClassGeneratedBy '/Game/Levels/Observatory.Observatory:PersistentLevel.Observatory'
+[2021.01.23-19.38.02:373][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.38.02:373][197]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainTemple
+[2021.01.23-19.38.02:373][197]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.38.02:374][197]LogWorld: UWorld::CleanupWorld for MainTemple, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.38.02:375][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.38.02:383][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-19.38.02:384][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Observatory.Observatory:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Observatory.Observatory:PersistentLevel.Observatory' with GeneratedClass '/Game/Levels/Observatory.Observatory_C' with ClassGeneratedBy '/Game/Levels/Observatory.Observatory:PersistentLevel.Observatory'
+[2021.01.23-19.38.02:386][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.38.02:412][197]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.38.02:414][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.38.02:419][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.23-19.38.02:430][198]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.01.23-19.38.14:580][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.23-19.38.14:750][924]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/ObservatoryAED152634983FD428911C9B28D7549C9.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Observatory.umap'
+[2021.01.23-19.38.14:804][924]AssetCheck: New page: Asset Save: Observatory
+[2021.01.23-19.38.14:804][924]LogContentValidation: Display: Validating World /Game/Levels/Observatory.Observatory
+[2021.01.23-19.38.38:398][965]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d393f679-9979-4cb7-be18-6f1f077d9397}.
+[2021.01.23-19.38.38:398][965]LogTemp: Resetting audio stream to device id 
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: Channel Order:
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-19.38.38:406][965]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-19.38.55:124][959]LogAIModule: Creating AISystem for world Ruins
+[2021.01.23-19.38.55:146][959]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Ruins.Ruins
+[2021.01.23-19.38.55:177][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.23-19.38.55:178][959]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-19.38.55:178][959]LightingResults: New page: Lighting Build
+[2021.01.23-19.38.55:178][959]LoadErrors: New page: Loading map: Ruins.umap
+[2021.01.23-19.38.55:179][959]LogWorld: UWorld::CleanupWorld for Observatory, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.38.55:180][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.38.55:180][959]MapCheck: New page: Map Check
+[2021.01.23-19.38.55:180][959]LightingResults: New page: Lighting Build
+[2021.01.23-19.38.55:208][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.01.23-19.38.55:789][959]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-19.38.55:842][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.01.23-19.38.55:880][959]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-19.38.55:880][959]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2021.01.23-19.38.55:880][959]LogFileHelpers: Loading map 'Ruins' took 0.704
+[2021.01.23-19.39.01:083][266]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-19.39.01:104][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-19.39.01:104][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-19.39.01:104][266]PIE: New page: PIE session: Ruins (Jan 23, 2021, 9:39:01 AM)
+[2021.01.23-19.39.01:104][266]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Ruins
+[2021.01.23-19.39.01:161][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056801s)
+[2021.01.23-19.39.01:162][266]LogAIModule: Creating AISystem for world Ruins
+[2021.01.23-19.39.01:162][266]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2021.01.23-19.39.01:162][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Ruins.Ruins to /Game/Levels/UEDPIE_0_Ruins.Ruins (0.058156s)
+[2021.01.23-19.39.01:188][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.01.23-19.39.01:188][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-19.39.01:188][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-19.39.01:188][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-19.39.01:188][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-19.39.01:188][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-19.39.01:188][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-19.39.01:188][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-19.39.01:188][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-19.39.01:189][266]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-19.39.01:189][266]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: Channel Order:
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-19.39.01:194][266]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-19.39.01:226][266]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.23-19.39.01:228][266]LogInit: FAudioDevice initialized.
+[2021.01.23-19.39.01:236][266]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-19.39.01:286][266]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Ruins.Ruins up for play (max tick rate 60) at 2021.01.23-14.39.01
+[2021.01.23-19.39.01:295][266]LogWorld: Bringing up level for play took: 0.057972
+[2021.01.23-19.39.01:295][266]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.23-19.39.01:302][266]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Ruins -0.679
+[2021.01.23-19.39.01:302][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-19.40.11:914][500]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.40.11:924][500]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-19.40.11:945][500]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-19.40.11:945][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-19.40.11:945][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.40.11:946][500]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Ruins
+[2021.01.23-19.40.11:946][500]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.40.11:948][500]LogWorld: UWorld::CleanupWorld for Ruins, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.40.11:965][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.40.11:973][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-19.40.11:973][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-19.40.11:978][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.40.12:006][500]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.40.12:012][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.40.12:019][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.23-19.40.12:033][501]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.23-19.43.14:139][280]Cmd: TRANSACTION UNDO
+[2021.01.23-19.43.14:139][280]LogEditorTransaction: Undo Move Actors
+[2021.01.23-19.48.07:177][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.23-19.48.07:563][514]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Ruins7029D59E4C4A937518EDEFAF1A09A91E.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap'
+[2021.01.23-19.48.07:616][514]AssetCheck: New page: Asset Save: Ruins
+[2021.01.23-19.48.07:616][514]LogContentValidation: Display: Validating World /Game/Levels/Ruins.Ruins
+[2021.01.23-19.48.08:475][566]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-19.48.08:495][566]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-19.48.08:496][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-19.48.08:496][566]PIE: New page: PIE session: Ruins (Jan 23, 2021, 9:48:08 AM)
+[2021.01.23-19.48.08:496][566]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Ruins
+[2021.01.23-19.48.08:551][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055560s)
+[2021.01.23-19.48.08:552][566]LogAIModule: Creating AISystem for world Ruins
+[2021.01.23-19.48.08:552][566]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2021.01.23-19.48.08:552][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Ruins.Ruins to /Game/Levels/UEDPIE_0_Ruins.Ruins (0.056525s)
+[2021.01.23-19.48.08:581][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.23-19.48.08:582][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-19.48.08:582][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-19.48.08:582][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-19.48.08:582][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-19.48.08:582][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-19.48.08:582][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-19.48.08:582][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-19.48.08:582][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-19.48.08:582][566]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-19.48.08:582][566]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: Channel Order:
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-19.48.08:588][566]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-19.48.08:614][566]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.23-19.48.08:615][566]LogInit: FAudioDevice initialized.
+[2021.01.23-19.48.08:621][566]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-19.48.08:657][566]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Ruins.Ruins up for play (max tick rate 60) at 2021.01.23-14.48.08
+[2021.01.23-19.48.08:664][566]LogWorld: Bringing up level for play took: 0.042791
+[2021.01.23-19.48.08:665][566]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.23-19.48.08:670][566]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Ruins 0.689
+[2021.01.23-19.48.08:670][566]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-19.49.32:873][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.49.32:884][615]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-19.49.32:904][615]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-19.49.32:904][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-19.49.32:904][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.49.32:904][615]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Ruins
+[2021.01.23-19.49.32:904][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.49.32:905][615]LogWorld: UWorld::CleanupWorld for Ruins, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-19.49.32:911][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.49.32:923][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-19.49.32:923][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-19.49.32:926][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-19.49.32:952][615]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-19.49.32:976][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-19.49.32:983][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.01.23-19.49.32:998][616]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.23-20.31.46:577][272]LogSlate: Window 'Save Asset As' being destroyed
+[2021.01.23-20.31.46:629][272]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeIntoLevel.LVLSEQ_FadeIntoLevel
+[2021.01.23-20.31.58:878][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.01.23-20.31.59:275][970]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Ruins_Auto197871F5A497836567969CB945EDD9E00.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Autosaves/Game/Levels/Ruins_Auto1.umap'
+[2021.01.23-20.31.59:278][970]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Ruins' took 0.425
+[2021.01.23-20.31.59:278][970]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.425
+[2021.01.23-20.31.59:279][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeIntoLevel] ([1] browsable assets)...
+[2021.01.23-20.31.59:279][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeIntoLevel]
+[2021.01.23-20.31.59:284][970]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeIntoLevel_Auto1EAA41CB14B22E7A05BB3B7B794100B86.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Autosaves/Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeIntoLevel_Auto1.uasset'
+[2021.01.23-20.31.59:285][970]LogFileHelpers: Auto-saving content packages took 0.008
+[2021.01.23-20.33.02:326][738]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeIntoLevel0BE8588A4E9B3C451AAAE28FB672DEBF.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Animations/Cinematics/Cutscenes/LVLSEQ_FadeIntoLevel.uasset'
+[2021.01.23-20.33.02:341][738]AssetCheck: New page: Asset Save: LVLSEQ_FadeIntoLevel
+[2021.01.23-20.33.02:341][738]LogContentValidation: Display: Validating LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeIntoLevel.LVLSEQ_FadeIntoLevel
+[2021.01.23-20.33.23:066][957]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Ruins.Ruins:PersistentLevel.Ruins
+[2021.01.23-20.33.23:290][957]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2021.01.23-20.33.23:995][958]LogSlate: Took 0.006610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.23-20.34.28:073][735]BlueprintLog: New page: Compile Ruins
+[2021.01.23-20.34.28:318][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.01.23-20.34.28:858][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.01.23-20.34.29:317][762]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/RuinsBF720BA14B4506FDD307E0ACEB56FA60.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap'
+[2021.01.23-20.34.29:358][762]LogFileHelpers: Saving map 'Ruins' took 0.534
+[2021.01.23-20.34.29:370][762]AssetCheck: New page: Asset Save: Ruins
+[2021.01.23-20.34.29:370][762]LogContentValidation: Display: Validating World /Game/Levels/Ruins.Ruins
+[2021.01.23-20.34.31:145][867]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-20.34.31:165][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-20.34.31:165][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-20.34.31:166][867]PIE: New page: PIE session: Ruins (Jan 23, 2021, 10:34:31 AM)
+[2021.01.23-20.34.31:166][867]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Ruins
+[2021.01.23-20.34.31:223][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056949s)
+[2021.01.23-20.34.31:225][867]LogAIModule: Creating AISystem for world Ruins
+[2021.01.23-20.34.31:225][867]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2021.01.23-20.34.31:225][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Ruins.Ruins to /Game/Levels/UEDPIE_0_Ruins.Ruins (0.058837s)
+[2021.01.23-20.34.31:255][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.23-20.34.31:257][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-20.34.31:257][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-20.34.31:257][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-20.34.31:257][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-20.34.31:257][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-20.34.31:257][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-20.34.31:257][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-20.34.31:257][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-20.34.31:257][867]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-20.34.31:257][867]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: Channel Order:
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-20.34.31:264][867]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-20.34.31:297][867]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.23-20.34.31:299][867]LogInit: FAudioDevice initialized.
+[2021.01.23-20.34.31:311][867]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-20.34.31:359][867]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Ruins.Ruins up for play (max tick rate 60) at 2021.01.23-15.34.31
+[2021.01.23-20.34.31:367][867]LogWorld: Bringing up level for play took: 0.054257
+[2021.01.23-20.34.31:367][867]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.01.23-20.34.31:373][867]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Ruins -0.607
+[2021.01.23-20.34.31:374][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-20.34.35:933][139]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-20.34.35:949][139]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-20.34.35:969][139]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-20.34.35:969][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-20.34.35:969][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-20.34.35:969][139]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Ruins
+[2021.01.23-20.34.35:969][139]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-20.34.35:971][139]LogWorld: UWorld::CleanupWorld for Ruins, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-20.34.35:977][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.34.35:989][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-20.34.35:990][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-20.34.35:995][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.34.36:030][139]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-20.34.36:039][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-20.34.36:047][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.01.23-20.34.36:057][140]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.01.23-20.34.36:873][189]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-20.34.36:894][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-20.34.36:895][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-20.34.36:895][189]PIE: New page: PIE session: Ruins (Jan 23, 2021, 10:34:36 AM)
+[2021.01.23-20.34.36:895][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Ruins
+[2021.01.23-20.34.36:950][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054470s)
+[2021.01.23-20.34.36:951][189]LogAIModule: Creating AISystem for world Ruins
+[2021.01.23-20.34.36:951][189]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2021.01.23-20.34.36:951][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Ruins.Ruins to /Game/Levels/UEDPIE_0_Ruins.Ruins (0.055347s)
+[2021.01.23-20.34.36:980][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.23-20.34.36:981][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-20.34.36:981][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-20.34.36:981][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-20.34.36:981][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-20.34.36:981][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-20.34.36:981][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-20.34.36:981][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-20.34.36:981][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-20.34.36:982][189]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-20.34.36:982][189]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: Channel Order:
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-20.34.36:987][189]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-20.34.37:012][189]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.23-20.34.37:013][189]LogInit: FAudioDevice initialized.
+[2021.01.23-20.34.37:017][189]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-20.34.37:051][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Ruins.Ruins up for play (max tick rate 60) at 2021.01.23-15.34.37
+[2021.01.23-20.34.37:058][189]LogWorld: Bringing up level for play took: 0.040236
+[2021.01.23-20.34.37:058][189]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.23-20.34.37:063][189]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Ruins 1.083
+[2021.01.23-20.34.37:064][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-20.34.42:883][537]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-20.34.42:900][537]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.01.23-20.34.42:920][537]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.01.23-20.34.42:920][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-20.34.42:920][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-20.34.42:920][537]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Ruins
+[2021.01.23-20.34.42:920][537]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-20.34.42:921][537]LogWorld: UWorld::CleanupWorld for Ruins, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-20.34.42:928][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.34.42:946][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.23-20.34.42:947][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Ruins.Ruins:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins' with GeneratedClass '/Game/Levels/Ruins.Ruins_C' with ClassGeneratedBy '/Game/Levels/Ruins.Ruins:PersistentLevel.Ruins'
+[2021.01.23-20.34.42:959][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.34.42:997][537]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.23-20.34.43:008][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.23-20.34.43:015][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.23-20.34.43:025][538]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.23-20.35.57:765][855]LogSlate: Window 'Save Asset As' being destroyed
+[2021.01.23-20.35.57:805][855]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.LVLSEQ_FadeOutLevel
+[2021.01.23-20.37.10:906][ 92]BlueprintLog: New page: Compile Ruins
+[2021.01.23-20.37.11:142][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.01.23-20.37.11:593][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.01.23-20.37.12:045][113]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/RuinsFFD6A01E4B6CE71DD7DC39B6C2093AF2.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap'
+[2021.01.23-20.37.12:085][113]LogFileHelpers: Saving map 'Ruins' took 0.527
+[2021.01.23-20.37.12:097][113]AssetCheck: New page: Asset Save: Ruins
+[2021.01.23-20.37.12:097][113]LogContentValidation: Display: Validating World /Game/Levels/Ruins.Ruins
+[2021.01.23-20.37.17:827][445]BlueprintLog: New page: Compile Ruins
+[2021.01.23-20.37.18:062][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.01.23-20.37.18:580][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.01.23-20.37.19:023][471]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Ruins4001BF004AFCA19630F78BA4F3BD4B8F.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap'
+[2021.01.23-20.37.19:063][471]LogFileHelpers: Saving map 'Ruins' took 0.516
+[2021.01.23-20.37.19:074][471]AssetCheck: New page: Asset Save: Ruins
+[2021.01.23-20.37.19:074][471]LogContentValidation: Display: Validating World /Game/Levels/Ruins.Ruins
+[2021.01.23-20.37.21:249][595]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeOutLevel23D52EC443A83A8F9C8EB491D9495CBB.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.uasset'
+[2021.01.23-20.37.21:261][595]AssetCheck: New page: Asset Save: LVLSEQ_FadeOutLevel
+[2021.01.23-20.37.21:261][595]LogContentValidation: Display: Validating LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.LVLSEQ_FadeOutLevel
+[2021.01.23-20.37.44:126][818]LogSlate: Window 'Ruins' being destroyed
+[2021.01.23-20.37.44:130][818]LogSlate: Window 'Ruins' being destroyed
+[2021.01.23-20.37.44:131][818]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-20.37.44:131][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.37.55:583][491]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeOutLevel0D4CC8EE49B3260587F4A9819DE936F0.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.uasset'
+[2021.01.23-20.37.55:593][491]AssetCheck: New page: Asset Save: LVLSEQ_FadeOutLevel
+[2021.01.23-20.37.55:593][491]LogContentValidation: Display: Validating LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.LVLSEQ_FadeOutLevel
+[2021.01.23-20.38.00:097][759]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeOutLevel67E70C5242463DC40EDD399082E0BB6A.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.uasset'
+[2021.01.23-20.38.00:107][759]AssetCheck: New page: Asset Save: LVLSEQ_FadeOutLevel
+[2021.01.23-20.38.00:108][759]LogContentValidation: Display: Validating LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.LVLSEQ_FadeOutLevel
+[2021.01.23-20.38.57:937][219]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeOutLevel5BF1DB11484C4B98ECEA24896B3B8987.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.uasset'
+[2021.01.23-20.38.57:948][219]AssetCheck: New page: Asset Save: LVLSEQ_FadeOutLevel
+[2021.01.23-20.38.57:948][219]LogContentValidation: Display: Validating LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.LVLSEQ_FadeOutLevel
+[2021.01.23-20.39.02:250][474]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeOutLevelD76067774B185544A21F98BF43059CF1.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.uasset'
+[2021.01.23-20.39.02:261][474]AssetCheck: New page: Asset Save: LVLSEQ_FadeOutLevel
+[2021.01.23-20.39.02:261][474]LogContentValidation: Display: Validating LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.LVLSEQ_FadeOutLevel
+[2021.01.23-20.39.18:886][462]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeOutLevel4B6A843F435F179674BE6FA2B8AC61CF.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.uasset'
+[2021.01.23-20.39.18:897][462]AssetCheck: New page: Asset Save: LVLSEQ_FadeOutLevel
+[2021.01.23-20.39.18:897][462]LogContentValidation: Display: Validating LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.LVLSEQ_FadeOutLevel
+[2021.01.23-20.39.25:568][856]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/LVLSEQ_FadeOutLevelEA6DF7BE43987D0474B16D88DB14B10E.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.uasset'
+[2021.01.23-20.39.25:578][856]AssetCheck: New page: Asset Save: LVLSEQ_FadeOutLevel
+[2021.01.23-20.39.25:579][856]LogContentValidation: Display: Validating LevelSequence /Game/Animations/Cinematics/Cutscenes/LVLSEQ_FadeOutLevel.LVLSEQ_FadeOutLevel
+[2021.01.23-20.39.29:357][ 73]LogAIModule: Creating AISystem for world Outside
+[2021.01.23-20.39.29:372][ 73]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Outside.Outside
+[2021.01.23-20.39.29:407][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.01.23-20.39.30:937][ 73]LogSlate: Window 'Save Content' being destroyed
+[2021.01.23-20.39.30:986][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.23-20.39.31:458][ 73]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Ruins4B0DF1804DC3DACF5D0F9995942BA405.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Ruins.umap'
+[2021.01.23-20.39.31:503][ 73]LogFileHelpers: Saving map 'Ruins' took 0.549
+[2021.01.23-20.39.31:504][ 73]Cmd: MAP LOAD FILE="../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Outside.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.23-20.39.31:504][ 73]LightingResults: New page: Lighting Build
+[2021.01.23-20.39.31:504][ 73]LoadErrors: New page: Loading map: Outside.umap
+[2021.01.23-20.39.31:513][ 73]LogWorld: UWorld::CleanupWorld for Ruins, bSessionEnded=true, bCleanupResources=true
+[2021.01.23-20.39.31:513][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.23-20.39.31:514][ 73]MapCheck: New page: Map Check
+[2021.01.23-20.39.31:514][ 73]LightingResults: New page: Lighting Build
+[2021.01.23-20.39.31:553][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.01.23-20.39.32:128][ 73]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.23-20.39.32:175][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.01.23-20.39.32:214][ 73]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.23-20.39.32:214][ 73]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2021.01.23-20.39.32:214][ 73]LogFileHelpers: Loading map 'Outside' took 0.711
+[2021.01.23-20.39.32:293][ 73]AssetCheck: New page: Asset Save: Ruins
+[2021.01.23-20.39.32:293][ 73]LogContentValidation: Display: Validating World /Game/Levels/Ruins.Ruins
+[2021.01.23-20.39.32:402][ 73]LogAIModule: Creating AISystem for world Ruins
+[2021.01.23-20.40.06:984][ 14]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Outside.Outside:PersistentLevel.Outside
+[2021.01.23-20.40.59:641][ 58]BlueprintLog: New page: Compile Outside
+[2021.01.23-20.40.59:888][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.01.23-20.41.00:411][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.23-20.41.00:776][ 85]LogSavePackage: Moving '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Saved/Outside1B2508A3487706AAF5E1CD9DA3B44164.tmp' to '../../../../../../Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Content/Levels/Outside.umap'
+[2021.01.23-20.41.00:820][ 85]LogFileHelpers: Saving map 'Outside' took 0.444
+[2021.01.23-20.41.00:832][ 85]AssetCheck: New page: Asset Save: Outside
+[2021.01.23-20.41.00:832][ 85]LogContentValidation: Display: Validating World /Game/Levels/Outside.Outside
+[2021.01.23-20.41.02:616][189]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.23-20.41.02:636][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Outside.Outside:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Outside.Outside:PersistentLevel.Outside' with GeneratedClass '/Game/Levels/Outside.Outside_C' with ClassGeneratedBy '/Game/Levels/Outside.Outside:PersistentLevel.Outside'
+[2021.01.23-20.41.02:636][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.23-20.41.02:636][189]PIE: New page: PIE session: Outside (Jan 23, 2021, 10:41:02 AM)
+[2021.01.23-20.41.02:636][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Outside
+[2021.01.23-20.41.02:666][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029215s)
+[2021.01.23-20.41.02:667][189]LogAIModule: Creating AISystem for world Outside
+[2021.01.23-20.41.02:667][189]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2021.01.23-20.41.02:667][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Outside.Outside to /Game/Levels/UEDPIE_0_Outside.Outside (0.030684s)
+[2021.01.23-20.41.02:700][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.01.23-20.41.02:702][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.23-20.41.02:702][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.23-20.41.02:702][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.23-20.41.02:702][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.23-20.41.02:702][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.23-20.41.02:702][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.23-20.41.02:702][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.23-20.41.02:702][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.23-20.41.02:702][189]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.23-20.41.02:702][189]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: Is Default: Yes
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: Channel Order:
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.23-20.41.02:708][189]LogAudioMixer: Display: 1: FrontRight
+[2021.01.23-20.41.02:736][189]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.23-20.41.02:737][189]LogInit: FAudioDevice initialized.
+[2021.01.23-20.41.02:750][189]LogLoad: Game class is 'GM_3PC_C'
+[2021.01.23-20.41.02:790][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Outside.Outside up for play (max tick rate 60) at 2021.01.23-15.41.02
+[2021.01.23-20.41.02:796][189]LogWorld: Bringing up level for play took: 0.042944
+[2021.01.23-20.41.02:796][189]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.01.23-20.41.02:801][189]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Outside 0.82
+[2021.01.23-20.41.02:801][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Outside.Outside:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Outside.Outside:PersistentLevel.Outside' with GeneratedClass '/Game/Levels/Outside.Outside_C' with ClassGeneratedBy '/Game/Levels/Outside.Outside:PersistentLevel.Outside'
+[2021.01.23-20.41.21:147][288]LogNet: Browse: /Game/Levels/Ruins
+[2021.01.23-20.41.21:148][288]LogLoad: LoadMap: /Game/Levels/Ruins
+[2021.01.23-20.41.21:148][288]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Outside
+[2021.01.23-20.41.21:148][288]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world

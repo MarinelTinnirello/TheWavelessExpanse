@@ -1413,6 +1413,8 @@ Windows.Engine:/Script/AppleARKit.AppleARKitSettings:bEnableLiveLinkForFaceTrack
 Windows.Engine:/Script/AppleARKit.AppleARKitSettings:LiveLinkPublishingPort:0=11111
 Windows.Engine:/Script/AppleARKit.AppleARKitSettings:bRequireDeviceSupportsARKit:0=true
 Windows.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
+Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.MotionBlur:0=False
+Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AntiAliasing:0=0
 Windows.Engine:Messaging:bAllowDelayedMessaging:0=false
 Windows.Engine:RemoteSession:ChannelRedirects:0=(OldName=FRemoteSessionFrameBufferChannel,NewName=FRemoteSessionFrameBufferChannel_DEPRECATED)
 Windows.Engine:/Script/ChaosSolverEngine.ChaosSolverSettings:DefaultChaosSolverActorClass:0=/Script/ChaosSolverEngine.ChaosSolverActor
@@ -1601,7 +1603,8 @@ Windows.Input:/Script/Engine.InputSettings:AxisMappings:27=(AxisName="Yaw",Scale
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:28=(AxisName="Yaw",Scale=-1.000000,Key=Q)
 Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
 Windows.Input:/Script/Engine.Console:HistoryBuffer:0=HighRes
-Windows.Input:/Script/Engine.Console:HistoryBuffer:1=HighResShot 2
+Windows.Input:/Script/Engine.Console:HistoryBuffer:1=HighResShot
+Windows.Input:/Script/Engine.Console:HistoryBuffer:2=HighResShot 2
 Windows.Input:/Script/Engine.Console:HistoryBot:0=-1
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:0=(Key=F11,Command="LevelEditor.ToggleImmersive", bIgnoreCtrl=True, bIgnoreAlt=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:1=(Key=F11,Command="MainFrame.ToggleFullscreen",Shift=True)
@@ -1802,7 +1805,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse/Builds")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/M T/Documents/GitHub/TheWavelessExpanse/TheWavelessExpanse")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -1821,7 +1824,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDire
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
